@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EE1PqLYaBcWSPZsXgjTEqzM4HW6lso8i0gty9MWPC+A=",
+  "Source": "RuletaBackend",
+  "BasePath": "_content/RuletaBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

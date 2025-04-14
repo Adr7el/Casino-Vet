@@ -1,0 +1,6 @@
+@RuletaBackend_HostAddress = http://localhost:5214
+
+GET {{RuletaBackend_HostAddress}}/ruleta/
+Accept: application/json
+
+###

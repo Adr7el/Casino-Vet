@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "RuletaBackend.Controllers.RuletaController",
+    "Method": "Apostar",
+    "RelativePath": "api/Ruleta/apostar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apuesta",
+        "Type": "RuletaBackend.Models.Apuesta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RuletaBackend.Models.ResultadoApuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RuletaBackend.Controllers.RuletaController",
+    "Method": "GirarRuleta",
+    "RelativePath": "api/Ruleta/girar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "RuletaBackend.Models.ResultadoRuleta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RuletaBackend.Controllers.UsuariosController",
+    "Method": "ObtenerUsuario",
+    "RelativePath": "api/Usuarios/{nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RuletaBackend.Models.Usuario",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RuletaBackend.Controllers.UsuariosController",
+    "Method": "GuardarSaldo",
+    "RelativePath": "api/Usuarios/guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioRequest",
+        "Type": "RuletaBackend.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

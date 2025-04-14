@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\seeders\\usuarioinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\seeders\\usuarioinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\controllers\\ruletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\controllers\\ruletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\services\\ruletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\services\\ruletaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\models\\resultadoruleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\models\\resultadoruleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\models\\resultadoapuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\models\\resultadoapuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|c:\\users\\adrie\\documents\\proyectos\\ruleta\\ruletabackend\\ruletabackend\\models\\apuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD906B2-EA81-454F-82A9-2036A9E7F7B8}|RuletaBackend\\RuletaBackend.csproj|solutionrelative:ruletabackend\\models\\apuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResultadoRuleta.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\ResultadoRuleta.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Models\\ResultadoRuleta.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\ResultadoRuleta.cs",
+              "RelativeToolTip": "RuletaBackend\\Models\\ResultadoRuleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:37:17.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RuletaBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RuletaBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T02:25:37.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultadoApuesta.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\ResultadoApuesta.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Models\\ResultadoApuesta.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\ResultadoApuesta.cs",
+              "RelativeToolTip": "RuletaBackend\\Models\\ResultadoApuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:20:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "RuletaBackend\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:28:40.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuletaController.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Controllers\\RuletaController.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Controllers\\RuletaController.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Controllers\\RuletaController.cs",
+              "RelativeToolTip": "RuletaBackend\\Controllers\\RuletaController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:28:34.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RuletaService.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Services\\RuletaService.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Services\\RuletaService.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Services\\RuletaService.cs",
+              "RelativeToolTip": "RuletaBackend\\Services\\RuletaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:17:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apuesta.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\Apuesta.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Models\\Apuesta.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\Apuesta.cs",
+              "RelativeToolTip": "RuletaBackend\\Models\\Apuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:00:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioInicial.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Seeders\\UsuarioInicial.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Seeders\\UsuarioInicial.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Seeders\\UsuarioInicial.cs",
+              "RelativeToolTip": "RuletaBackend\\Seeders\\UsuarioInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:44:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Program.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Program.cs",
+              "RelativeToolTip": "RuletaBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:12:47.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "RuletaBackend\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:09:08.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "RuletaBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\appsettings.json",
+              "RelativeToolTip": "RuletaBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T18:11:16.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "RuletaBackend\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\adrie\\Documents\\Proyectos\\Ruleta\\RuletaBackend\\RuletaBackend\\Models\\Usuario.cs",
+              "RelativeToolTip": "RuletaBackend\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:07:50.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

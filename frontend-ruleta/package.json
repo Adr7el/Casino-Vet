@@ -1,0 +1,23 @@
+{
+  "name": "frontend-ruleta",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "crypto-browserify": "^3.12.1",
+    "pinia": "^3.0.2",
+    "vue": "^3.5.13",
+    "vue3-roulette": "^0.3.3",
+    "vuetify": "^3.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.0"
+  }
+}
